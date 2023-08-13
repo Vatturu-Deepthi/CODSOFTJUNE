@@ -1,1 +1,2 @@
 # CODSOFTJUNE
+The password generator project involves creating a Python application that generates strong and random passwords. Users input the desired password length and complexity. The program then combines random characters to create a password of the specified length. Finally, the generated password is displayed on the screen for the user to see. This tool enhances security by producing robust passwords tailored to user preferences.
